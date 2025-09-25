@@ -3,6 +3,7 @@ package com.example.vertex;
 abstract public class Shape {
     private int x;
     private int y;
+    private String color = "red";
 
     private String colour = "yellow";
 
